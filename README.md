@@ -6,6 +6,7 @@
 2. 
 
 
-## Author
+## Authors
 
 - **@waltertaya**
+- **Samwel Njuguna M C026-01-0940/2022
