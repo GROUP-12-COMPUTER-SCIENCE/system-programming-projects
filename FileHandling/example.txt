@@ -1,8 +1,1 @@
-Hello, this is a file handling example in C!
-Hello, this is a file handling example in C!
-Hello, this is a file handling example in C!
-Hello, this is a file handling example in C!
-HELLO, THIS IS A FILE HANDLING EXAMPLE IN C!
-HELLO, THIS IS A FILE HANDLING EXAMPLE IN C!
-HELLO, THIS IS A FILE HANDLING EXAMPLE IN C!
-HELLO, THIS IS A FILE HANDLING EXAMPLE IN C!
+5757 78954
