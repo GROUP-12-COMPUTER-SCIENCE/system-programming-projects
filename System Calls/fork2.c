@@ -2,7 +2,7 @@
 #include <unistd.h>
 
 int main() {
-    // Create a new process
+
     pid_t pid = fork();
 
     if (pid < 0) {
