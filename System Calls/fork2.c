@@ -4,6 +4,7 @@
 int main() {
 
     pid_t pid = fork();
+        // Create a new process
 
     if (pid < 0) {
         // Fork failed
